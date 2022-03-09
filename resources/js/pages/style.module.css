@@ -1,0 +1,17 @@
+.test {
+    background-color: rebeccapurple;
+}
+.l-header-outer {
+    align-items: center;
+    display: flex;
+    font-size: 13px;
+    justify-content: space-between;
+    min-height: 50px;
+    padding: 0 10px;
+    width: 100%;
+    background-color: rebeccapurple;
+}
+.l-header-outer:hover {
+    background-color: aquamarine;
+}
+
